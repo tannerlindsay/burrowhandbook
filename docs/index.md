@@ -18,7 +18,7 @@ always know how to stay safe. In support of this, the Burrow has installed sever
 systems, known by others as "child proofing".
 
 {: .note }
-It is possible that "Child proofing" is real. However we can confirm "Kraken proofing" is not real.
+It is possible that "child proofing" is real. However we can confirm "Kraken proofing" is not real.
 The best we hope for is to limit the damage of the Kraken and keep it safe.
 
 To that end, guests will find a varity of challenges in performing ordinary tasks that they are
