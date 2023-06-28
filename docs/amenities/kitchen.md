@@ -14,8 +14,7 @@ As it is a shared space, we ask that you be considerate of other guests and help
 tidy.
 
 {: .note }
-The kitchen is an especially tricky area for toddlers, so be sure to review **This other page**
-about safety and "childproofing" that is used at The Burrow.
+The kitchen is an especially tricky area for toddlers, so be sure to review the [Welcome](https://tannerlindsay.github.io/burrowhandbook/) page for information about about safety and "child proofing" that is used at The Burrow.
 
 ## Kitchen Stuffs
 The kitchen is well stocked with all kinds of tableware, flatware, small appliances, specialty
@@ -58,6 +57,9 @@ pizza stone is in the lower oven and can remain during any cooking or be removed
 
 The range hood has lights and **vents to the outside**. It does a great job at catching any
 smoke and steam.
+
+The stove cannot be locked. The oven controls can be locked and unlocked activation by pressing
+and holding the lock button for 3 seconds.
 
 {: .highlight}
 To address concerns about indoor air quality, we ask that you turn the hood fan onto at least low
