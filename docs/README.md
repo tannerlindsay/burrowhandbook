@@ -1,2 +1,2 @@
 # burrowhandbook
-This will be the handbook page thing
+This is the docs folder
