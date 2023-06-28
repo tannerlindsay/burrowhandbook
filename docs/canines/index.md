@@ -4,14 +4,18 @@ The following guidelines are provided to help ensure that all canine visitors ar
 ## TOC1
 - [Canine Code](#canine-code)
   - [TOC1](#toc1)
-  - [TOC2](#toc2)
+  - [Table of contents](#table-of-contents)
   - [General Guidelines](#general-guidelines)
   - [Food, Water and Mealtimes](#food-water-and-mealtimes)
   - [Available Amenities](#available-amenities)
 
-## TOC2
+## Table of contents
+{: .no_toc .text-delta }
+
 1. TOC
 {:toc}
+
+---
 
 ## General Guidelines
  - All owners are responsible for their dog and others should respect guidelines set for specific dogs.
