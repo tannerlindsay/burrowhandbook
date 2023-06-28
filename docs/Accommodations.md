@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Accommodations
+parent: Welcome
 nav_order: 2
 ---
 
@@ -16,6 +17,7 @@ questions or special requests, or would like to make a reservation, please conta
 This lovely room comes with a queen bed and mattress and is perfect for a couple. There is also
 a desk and chair, side table and snack cart. The closet has space for clothes and crafting.
 This room is near the basement bathroom for all your pampering needs.
+
 Reserved: The Grandparents
 {: .label .label-purple }
 
@@ -25,6 +27,7 @@ you will think you are sleeping on an actual bed! This is in the "Family Room" s
 a large OLED TV, fully stocked bookshelf and reading nook, giant bean bag and a rowing machine.
 It also usually includes lots of social interaction, as there is no door and people have to walk
 through it. Plan accordingly. This room shares a bathroom with The Guest Room.
+
 Available
 {: .label .label-green}
 
@@ -33,6 +36,7 @@ Do you love pink? You will love this room! Pink walls and pink curtains adorn th
 This room features the most windows of any of our accommodations. The bed is a lovely pink futon
 that folds out to a full sized bed. The room features a selection of books and a piano. This room
 is next to the powder room, with a shower available upstairs or in the basement.
+
 Available
 {: .label .label-green}
 
@@ -40,10 +44,12 @@ Available
 Want to travel back to a time when life was simpler? Stay in the playroom and relive your toddler days. This room is full of all sorts of toys that will awaken your inner child. The bed is a twin Casper mattress directly on the floor - so you can roll right out of bed and start playing - even
 if it is the middle of the night. This room is next to the upstairs bathroom which features a 
 bath/shower set to toddler temperatures for that refreshing start to the day.
+
 Available
 {: .label .label-green}
 
 ## The Facilities
+
 {: .new }
 The Burrow was recently updated with a tankless waterheater, providing unlimited hot water for
 guests. It can also power multiple showers at once so no need for scheduling and no running out!
@@ -60,7 +66,7 @@ Guests can access The Burrow through two exterior doors or the garage. Access co
 provided via message just prior to arrival.
 
 ### Front and Back Doors
-To open, press the "logo" on the lock, then enter the code, the press :heavy_check_mark:.
+To open, press the "logo" on the lock, then enter the code, the press the check mark.
 The door will automatically re-lock after 2 minutes.
 
 ### Garage
