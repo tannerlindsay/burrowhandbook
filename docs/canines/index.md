@@ -1,6 +1,18 @@
 # Canine Code
 The following guidelines are provided to help ensure that all canine visitors are comfortable and safe.
 
+## TOC1
+- [Canine Code](#canine-code)
+  - [TOC1](#toc1)
+  - [TOC2](#toc2)
+  - [General Guidelines](#general-guidelines)
+  - [Food, Water and Mealtimes](#food-water-and-mealtimes)
+  - [Available Amenities](#available-amenities)
+
+## TOC2
+1. TOC
+{:toc}
+
 ## General Guidelines
  - All owners are responsible for their dog and others should respect guidelines set for specific dogs.
  - All dogs will be provided their own safe space - usually a crate or kennel. Anyone (human and canine)
