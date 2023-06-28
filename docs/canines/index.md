@@ -1,3 +1,9 @@
+---
+layout: default
+title: Canine Code
+nav_order: 4
+---
+
 # Canine Code
 {: .no_toc }
 The following guidelines are provided to help ensure that all canine visitors are comfortable and safe.
