@@ -1,13 +1,6 @@
 # Canine Code
+{: .no_toc }
 The following guidelines are provided to help ensure that all canine visitors are comfortable and safe.
-
-## TOC1
-- [Canine Code](#canine-code)
-  - [TOC1](#toc1)
-  - [Table of contents](#table-of-contents)
-  - [General Guidelines](#general-guidelines)
-  - [Food, Water and Mealtimes](#food-water-and-mealtimes)
-  - [Available Amenities](#available-amenities)
 
 ## Table of contents
 {: .no_toc .text-delta }
