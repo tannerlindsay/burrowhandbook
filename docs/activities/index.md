@@ -23,12 +23,12 @@ The following are available right at the Burrow. No need to go anywhere!
 ### Serious Activities
 Are you having too much fun? Do you need a bit of "work" to really enjoy your time? The following
 tasks are available to any interested parties.
- [ ] Pick strawberries
+ - Pick strawberries
    - There are strawberry bushes in the back yard that are always putting out more strawberries.
- [ ] Weed Cleanup
+ - Weed Cleanup
    - In the backyard this year, if it is not a raspberry bush, fruit tree or in the strawberry planter
         it is a weed and can be removed. This includes blackberries, and anything already dead.
- [ ] Back fence gate gap
+ - Back fence gate gap
    - There is a gap between the back gate and the ground. We want to use some bricks/rocks to bring
         the ground up to the bottom of the fence
    - **Note: This task may be required in order to make the backyard safe for small dogs**
