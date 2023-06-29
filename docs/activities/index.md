@@ -23,12 +23,12 @@ The following are available right at the Burrow. No need to go anywhere!
 ### Serious Activities
 Are you having too much fun? Do you need a bit of "work" to really enjoy your time? The following
 tasks are available to any interested parties.
- - Pick strawberries
+ [ ] Pick strawberries
    - There are strawberry bushes in the back yard that are always putting out more strawberries.
- - Weed Cleanup
+ [ ] Weed Cleanup
    - In the backyard this year, if it is not a raspberry bush, fruit tree or in the strawberry planter
         it is a weed and can be removed. This includes blackberries, and anything already dead.
- - Back fence gate gap
+ [ ] Back fence gate gap
    - There is a gap between the back gate and the ground. We want to use some bricks/rocks to bring
         the ground up to the bottom of the fence
    - **Note: This task may be required in order to make the backyard safe for small dogs**
@@ -85,4 +85,11 @@ If you want to check something out, please talk to your hosts.
 There is a new waterway available nearby. Please check with your hosts about the current status. A bit
 further away there is also a lake. There are some amenities available to residents such as kayaks
 and paddleboards, so check with your host for more details.
+
+### Swimming
+There are SO MANY POOLS. The neighborhood has 4 pools available, including one just a few blocks away.
+There is also a great pool at a local rec center, where the water is especially warm. There are two
+"splash pads" within a short drive.
+
+There may be lap swim hours at the pools, but guest should verify if interested.
 
