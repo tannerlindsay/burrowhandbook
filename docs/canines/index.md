@@ -17,7 +17,7 @@ The following guidelines are provided to help ensure that all canine visitors ar
 ---
 
 ## General Guidelines
- - All owners are responsible for their dog and others should respect guidelines set for specific dogs.
+ - All owners are responsible for their dog(s) and others should respect guidelines set for specific dogs.
  - All dogs will be provided their own safe space - usually a crate or kennel. Anyone (human and canine)
     without a valid driver's license should not be permitted to pester, poke, taunt, harass, feed or sing
     to a dog in their space.

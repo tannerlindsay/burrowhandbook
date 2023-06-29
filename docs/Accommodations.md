@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Accommodations
-parent: Welcome
 nav_order: 2
 ---
 
@@ -41,7 +40,7 @@ Available
 {: .label .label-green}
 
 ### The Playroom
-Want to travel back to a time when life was simpler? Stay in the playroom and relive your toddler days. This room is full of all sorts of toys that will awaken your inner child. The bed is a twin Casper mattress directly on the floor - so you can roll right out of bed and start playing - even
+Want to travel back to a time when life was simpler? Stay in the playroom and re-live your toddler days. This room is full of all sorts of toys that will awaken your inner child. The bed is a twin Casper mattress directly on the floor - so you can roll right out of bed and start playing - even
 if it is the middle of the night. This room is next to the upstairs bathroom which features a 
 bath/shower set to toddler temperatures for that refreshing start to the day.
 
@@ -66,8 +65,8 @@ Guests can access The Burrow through two exterior doors or the garage. Access co
 provided via message just prior to arrival.
 
 ### Front and Back Doors
-To open, press the "logo" on the lock, then enter the code, the press the check mark.
-The door will automatically re-lock after 2 minutes.
+To open, press the logo on the lock, then enter the code, the press the check mark.
+The door will automatically re-lock after 2 minutes, or you can press the logo to lock it.
 
 ### Garage
 Enter the code, then press 'Enter'. To close from the outside, just press 'Enter', no code required.
